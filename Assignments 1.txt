@@ -1,0 +1,17 @@
+Assignment 1:
+
+navigate to google.com type way to automation over here in the Google search.
+
+And then click on Google Search.
+
+And what are links that you see on this page.
+
+Just need to find the total count of all links.
+
+And you need to print all links in the console.
+
+Assignment 2:
+
+The second assignment navigate to makemytrip.com and then click on From section source location in one way trip 
+print the values that are showing up over here.
+

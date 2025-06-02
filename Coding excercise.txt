@@ -1,0 +1,18 @@
+**Scenario:** Automating the user journey from product search to checkout.
+- **Use Playwright to:**
+- Search for products using filters.
+- Add items to the cart.
+- Apply discount codes.
+- Complete the checkout process.
+- Validate order confirmation and email notifications.
+
+complete following tasks while coding for above mentioned scenario:
+
+1.Open a Website and Check Title
+2.Fill a Login Form and Click Submit
+3.Take a Screenshot After Navigation
+4.Handle a Popup or Dialog
+5.Hover and Click a Hidden Element
+6.Run a Test on Multiple Browsers (Projects)
+7.Test File Upload
+8.Test Navigation with Wait
